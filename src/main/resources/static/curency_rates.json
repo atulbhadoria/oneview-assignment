@@ -1,0 +1,26 @@
+[
+  {
+    "name": "INR",
+    "rate": 75.50
+  },
+  {
+    "name":  "USD",
+    "rate": 1.0
+  },
+  {
+    "name": "HKD",
+    "rate": 7.81
+  },
+  {
+    "name": "SGP",
+    "rate": 1.35
+  },
+  {
+    "name": "GBP",
+    "rate": 0.74
+  },
+  {
+    "name": "GBP",
+    "rate": 0.74
+  }
+]
